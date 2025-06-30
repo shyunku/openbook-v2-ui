@@ -82,6 +82,7 @@ export default function Home() {
   useEffect(() => {
     fetchData()
       .then((res) => {
+        console.log(res);
         setMarkets(res);
         fetchMarket(res[0].market);
         setMarketPubkey(new PublicKey(res[0].market));

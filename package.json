@@ -9,7 +9,7 @@
     "@coral-xyz/anchor": "^0.28.1-beta.1",
     "@heroicons/react": "^2.0.18",
     "@nextui-org/react": "^2.0.8",
-    "@openbook-dex/openbook-v2": "0.2.10",
+    "@openbook-dex/openbook-v2": "0.0.18",
     "@solana/wallet-adapter-base": "^0.9.23",
     "@solana/wallet-adapter-react": "^0.15.35",
     "@solana/wallet-adapter-react-ui": "^0.9.34",
